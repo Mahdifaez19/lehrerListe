@@ -4,13 +4,5 @@
       "id": 1,
       "title": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "squadName": "Super hero squad",
-  "homeTown": "Metro City",
-  "formed": 2016,
-  "secretBase": "Super tower",
-  "active": true
+  ]
 }
