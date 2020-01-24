@@ -1,1 +1,11 @@
-dic = {PaJ:1-12}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
